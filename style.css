@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#msg-box {
+
+    height: 93vh;
+    background-color: rgb(15, 82, 82);
+    margin-bottom: 8px;
+    overflow: scroll;
+
+}
+
+.bottom-row input {
+
+    width: 90%;
+    height: 4vh;
+    border-radius: 100px;
+
+}
+
+li {
+    margin-top: 5px;
+    background-color: rgb(0, 255, 0);
+    /* width: fit-content; */
+    border-radius: 2px;
+    padding: 5px;
+}
+
+.bottom-row button {
+
+    width: 8%;
+    height: 4vh;
+    border-radius: 20px;
+    border-style: none;
+    color: black;
+    background-color: rgb(13, 246, 13);
+    font-weight: 700;
+}
+
+#User {
+    text-align: right;
+    background-color: rgb(211, 249, 44);
+
+}
